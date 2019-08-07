@@ -340,12 +340,6 @@
       "Link": "https://www.youtube.com/watch?v=TvxNkmjdhMM"
     },
     {
-      "id": "8",
-      "WO": "Feet-Elevated Front Plank",
-      "LV": "2",
-      "Link": "https://www.youtube.com/watch?v=iXgloiOHFNE"
-    },
-    {
       "id": "10",
       "WO": "Side Plank",
       "LV": "2",
@@ -362,18 +356,6 @@
       "WO": "Feet-Elevated Side Plank",
       "LV": "3",
       "Link": "https://www.youtube.com/watch?v=rCTRrirA_cw"
-    },
-    {
-      "id": "13",
-      "WO": "Windshield Wiper",
-      "LV": "4",
-      "Link": "https://www.youtube.com/watch?v=X59_4RrU_aA"
-    },
-    {
-      "id": "14",
-      "WO": "Standing Rollout",
-      "LV": "4",
-      "Link": "https://www.youtube.com/watch?v=5Tc7yKQysVQ"
     }
   ],
   "Back": [
@@ -394,18 +376,6 @@
       "WO": "Towel Pull-Up",
       "LV": "3",
       "Link": "https://www.youtube.com/watch?v=fwmUZ9qMmYc"
-    },
-    {
-      "id": "4",
-      "WO": "Feet-Elevated Inverted Row",
-      "LV": "3",
-      "Link": "https://www.youtube.com/watch?v=IrIYsh0dBt4"
-    },
-    {
-      "id": "5",
-      "WO": "Towel Inverted Row",
-      "LV": "2",
-      "Link": "https://www.youtube.com/watch?v=qw1ewHcPo5k"
     },
     {
       "id": "6",
@@ -480,30 +450,6 @@
       "WO": "Alternating Jump Lunge",
       "LV": "3",
       "Link": "https://www.youtube.com/watch?v=y7Iug7eC0dk"
-    },
-    {
-      "id": "12",
-      "WO": "Reverse Lunge",
-      "LV": "2",
-      "Link": "https://www.youtube.com/watch?v=raQl44N_REc"
-    },
-    {
-      "id": "13",
-      "WO": "Step-Up",
-      "LV": "1",
-      "Link": "https://www.youtube.com/watch?v=nAl0t57yPD4"
-    },
-    {
-      "id": "14",
-      "WO": "Bulgarian Split Squat",
-      "LV": "2",
-      "Link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
-    },
-    {
-      "id": "15",
-      "WO": "Jump Split Squat",
-      "LV": "3",
-      "Link": "https://www.youtube.com/watch?v=rl1qLrH1Zpc"
     }
   ]
 }
