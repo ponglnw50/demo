@@ -33,6 +33,26 @@
       "PushLv": 5,
       "CoreLv": 1
     }
+  ],
+  "LV1": [
+ 
+    {
+      "id": "ราเบีย",
+      "SquatLv": 1,
+      "PullLv": 5,
+      "PushLv": 5,
+      "CoreLv": 1
+    }
+  ],
+  "LV2": [
+ 
+    {
+      "id": "ราเบีย",
+      "SquatLv": 1,
+      "PullLv": 5,
+      "PushLv": 5,
+      "CoreLv": 1
+    }
   ]
   
 }
